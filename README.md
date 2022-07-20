@@ -2,13 +2,13 @@
 
 Stack utilisée : Python Django
 
-Le projet [ Rush ] consiste a realiser un Forum.
+Le projet [ Rush ] consiste à realiser un Forum.
 
 La web_app integre les logiques suivantes :
 
 - login
 - identification
-- listes des artciles du forum
+- liste des artciles du forum
 - publication d'articles
 - possibilite de commenter les articles ainsi que les autres commentaires (recursion)
 - gestion des permissions (admin, superuser)
